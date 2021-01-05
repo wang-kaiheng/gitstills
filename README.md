@@ -1,3 +1,7 @@
 # gitstills
 first 
-3
+<<<<<<< HEAD
+2
+=======
+2
+>>>>>>> feature1
